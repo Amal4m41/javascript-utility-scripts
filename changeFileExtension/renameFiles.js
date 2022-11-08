@@ -28,4 +28,4 @@ const dirPath = __dirname + '/demo';
 
 getListOfFilesFromDir(dirPath);
 console.log('List of files: ', filesList);
-// renameFilesWithExtension('.md', addExtension);
+renameFilesWithExtension('.md', addExtension);
